@@ -13,15 +13,15 @@ EMOStream is a distributed, event-driven architecture for real-time emoji broadc
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/Cloud-Computing-Big-Data/RR-Team-23-emostream-concurrent-emoji-broadcast-over-event-driven-architecture
-cd RR-Team-23-emostream-concurrent-emoji-broadcast-over-event-driven-architecture
+git clone https://github.com/Vedx0609/EmoStream
+cd Emostream
 ```
 
 ### 2. Environment Preparation
 ```bash
 # Create Python Virtual Environment
-python3 -m venv EmoStream
-source EmoStream/bin/activate
+python3 -m venv your_env
+source your_env/bin/activate
 
 # Install Dependencies
 pip install -r requirements.txt
